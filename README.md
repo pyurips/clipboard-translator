@@ -1,5 +1,3 @@
-# clipboard-translator
-
 A simple CLI application that monitors your clipboard and automatically translates any new copied text using the DeepL API.
 
 ## How it works
